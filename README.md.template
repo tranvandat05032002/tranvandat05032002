@@ -1,1 +1,1 @@
-
+{{ template "daily-table" .Weathers }}
